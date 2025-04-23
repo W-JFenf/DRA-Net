@@ -1,3 +1,6 @@
+# Introduction
+Official code for “DRA-Net: Improved U-net White Blood Cell Segmentation Network Based on Residual Dual Attention”
+
 # DRA-Net
 This article aims to improve the segmentation accuracy of white blood cells and proposes a deep
 learning network called DRA-Net based on U-Net. DRA-Net is a U-shaped neural network based on
@@ -19,7 +22,10 @@ performance improvement. The experimental methods and related data in this artic
 
 # Requirements
 
-
+Windows 11 operating system was used, equipped with
+64.0 GB of memory, a 12th generation Intel(R) Core(TM)
+i5-12400F processor, and an NVIDIA GeForce RTX 3060
+graphics card with 12 GB of memory
 
 # Usage
 
