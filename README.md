@@ -30,7 +30,18 @@ graphics card with 12 GB of memory
 # Usage
 
 We provide code, datat and models for “the Core Laboratory of Hospital Clinic in Barcelona” dataset.
-The dataset we worked with can be found in data in branches
+
+
+The dataset we worked with can be found in data in branches (https://github.com/W-JFenf/DRA-Net/tree/data)
+
+To train a model,
+python ./code/train.py  #for training
+
+To test a model,
+
+python ./code/test.py  #for testing
+
+
 
 # Acknowledgement
 
