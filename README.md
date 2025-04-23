@@ -34,11 +34,14 @@ We provide code, datat and models for “the Core Laboratory of Hospital Clinic 
 
 The dataset we worked with can be found in data in branches (https://github.com/W-JFenf/DRA-Net/tree/data)
 
+
+
 To train a model,
 python ./code/train.py  #for training
 
-To test a model,
 
+
+To test a model,
 python ./code/test.py  #for testing
 
 
