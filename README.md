@@ -27,7 +27,7 @@ performance improvement. The experimental methods and related data in this artic
 
 # Acknowledgement
 
-This code is adapted from [unet](https://github.com/zhixuhao/unet), Efficient Channel Attention, Triple Vision module
+This code is adapted from [unet](https://github.com/zhixuhao/unet), [Efficient Channel Attention](https://github.com/BangguWu/ECANet), Triple Vision module
 
 
 # Questions
